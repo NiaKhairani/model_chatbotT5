@@ -18,9 +18,9 @@
 1. Fhauzia Fitri (Scrum Master AAI)
 2. Agung Try Nugraha (Design Researcher)
 3. Fhauzia Fitri (Data Engineer)
-4. Anggi Muhammad Fajri (ML Engineer)
-5. Revo Dwi Arya (ML Engineer)
-6. Nia Khairani (ML Ops)
+4. Anggi Muhammad Fajri (Meachine Learning Engineer)
+5. Revo Dwi Arya (Meachine Learning  Engineer)
+6. Nia Khairani (Meachine Learning  Ops)
    
 <br>
 
