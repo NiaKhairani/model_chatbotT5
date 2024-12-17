@@ -14,7 +14,7 @@
 
 </div>
 
- ## Team AAI
+ ## Team AAI 🔍
 1. Fhauzia Fitri (Scrum Master AAI)
 2. Agung Try Nugraha (Design Researcher)
 3. Fhauzia Fitri (Data Engineer)
@@ -36,7 +36,7 @@
    
 <br>
 
-## Team Mobile Mobile
+## Team Mobile 🍰
 1. Putri Andani Intan (Hustler)
 2. Istiarsa Pawestri (Scrum Master Mobile & Hacker)
 3. Cherry Elysia Putri (Hipster )
