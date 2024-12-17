@@ -14,9 +14,11 @@
 
 ### Team 🤩
 - Putri Andani Intan Permatasari (Hustler)
+- Generate Human Face Photos
 - Istiarsa Pawestri (Scrum Master Mobile)
 - Aura Maulida Izzati Kostelani (Scrum Master Web)
 - Fhauzia Fitri (Scrum Master AAI)
+
   
   **Hipster for Web**
 1. Ardika Gulo
