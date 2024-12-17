@@ -21,8 +21,10 @@
 4. Anggi Muhammad Fajri (ML Engineer)
 5. Revo Dwi Arya (ML Engineer)
 6. Nia Khairani (ML Ops)
+   
 <br>
-#### Team Web 🧐
+
+## Team Web 🧐
 1. Aura Maulida Izzati Kostelani (Scrum Master Web)
 2. Ardika Gulo (Hipster )
 3. Syalom Advensia Manurung (Hipster )
@@ -34,7 +36,7 @@
    
 <br>
 
-#### Team Mobile Mobile
+## Team Mobile Mobile
 1. Putri Andani Intan (Hustler)
 2. Istiarsa Pawestri (Scrum Master Mobile & Hacker)
 3. Cherry Elysia Putri (Hipster )
