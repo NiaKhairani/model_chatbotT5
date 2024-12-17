@@ -1,6 +1,9 @@
 <h1 align="center">SWIFTECH</h1>
 <p align="center">Fitur AI</p>
 
+<h1 align="center"> Natural Language Processing with Hugging Face Transformers </h1>
+<p align="center"> Hai, sahabat pembaca! Selamat datang di petualangan seru kita menjelajahi dunia Natural Language Processing (NLP). Siapkan diri Anda untuk menemukan berbagai model yang siap membantu Anda, mulai dari mengklasifikasikan teks hingga menerjemahkan kalimat dengan gaya yang penuh semangat! </p>
+
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
