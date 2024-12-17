@@ -15,6 +15,9 @@
 </div>
 
 #### TEAM
-Putri Andani Intan (Hustler)
-Istiarsa Pawestri (Scrum Master Mobile)
+- Putri Andani Intan (Hustler)
+- Istiarsa Pawestri (Scrum Master Mobile)
+- Aura Maulida Izzati Kostelani (Scrum Master Web)
+- Fhauzia Fitri (Scrum Master AAI)
+
 
