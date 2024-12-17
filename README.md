@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 
-### Team 🤩
+
 - Putri Andani Intan Permatasari (Hustler)
 - Generate Human Face Photos
 - Istiarsa Pawestri (Scrum Master Mobile)
@@ -21,28 +21,28 @@
 
   
   **Hipster for Web**
-1. Ardika Gulo
-2. Syalom Advensia Manurung
-3. Ivanka Angelina Junietta Pasanda
-4. Aura Maulida Izzati Kostelani
-- Hipster for Mobile
-1. Cherry Elysia Putri
-2. Silvie Mutiara Elisfa
+Ardika Gulo
+Syalom Advensia Manurung
+Ivanka Angelina Junietta Pasanda
+Aura Maulida Izzati Kostelani
+Hipster for Mobile
+Cherry Elysia Putri
+Silvie Mutiara Elisfa
    
   **Hacker for Web**
-1. Kristopeles Heykel Tambunan
-2. Muhammad Fadli Fauzi Sileuw
-3. Slamet Daroini
+Kristopeles Heykel Tambunan
+Muhammad Fadli Fauzi Sileuw
+Slamet Daroini
    
   **Hacker for Mobile**
-1. Istiarsa Pawestri
-2. Muhammad Rayhan Hadinugraha
-3. Muh. Yassar Nurfajri Darmawan
-4. Dian Reski Amelia
+Istiarsa Pawestri
+Muhammad Rayhan Hadinugraha
+Muh. Yassar Nurfajri Darmawan
+Dian Reski Amelia
    
    **Hacker AAI**
-1. Agung Try Nugraha (Design Researcher)
-2. Fhauzia Fitri (Data Engineer)
-3. Anggi Muhammad Fajri (ML Engineer)
-4. Revo Dwi Arya (ML Engineer)
-5. Nia Khairani (ML Ops)
+Agung Try Nugraha (Design Researcher)
+Fhauzia Fitri (Data Engineer)
+Anggi Muhammad Fajri (ML Engineer)
+Revo Dwi Arya (ML Engineer)
+Nia Khairani (ML Ops)
