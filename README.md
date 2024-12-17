@@ -14,10 +14,41 @@
 
 </div>
 
-#### TEAM
+#### TEAM 🧐
 - Putri Andani Intan (Hustler)
 - Istiarsa Pawestri (Scrum Master Mobile)
-- Aura Maulida Izzati Kostelani (Scrum Master Web)
 - Fhauzia Fitri (Scrum Master AAI)
+
+Web
+1. Aura Maulida Izzati Kostelani (Scrum Master Web)
+2. Ardika Gulo (Hipster )
+3. Syalom Advensia Manurung (Hipster )
+4. Ivanka Angelina Junietta Pasanda (Hipster )
+5. Aura Maulida Izzati Kostelani (Hipster )
+6. Kristopeles Heykel Tambunan (Hacker)
+7. Muhammad Fadli Fauzi Sileuw (Hacker)
+8. Slamet Daroini (Hacker)
+   
+<br>
+
+ Mobile
+1. Cherry Elysia Putri
+2. Silvie Mutiara Elisfa
+   
+ Hacker for Web
+
+   
+ ## Hacker for Mobile
+1. Istiarsa Pawestri
+2. Muhammad Rayhan Hadinugraha
+3. Muh. Yassar Nurfajri Darmawan
+4. Dian Reski Amelia
+   
+ ## Hacker AAI
+1. Agung Try Nugraha (Design Researcher)
+2. Fhauzia Fitri (Data Engineer)
+3. Anggi Muhammad Fajri (ML Engineer)
+4. Revo Dwi Arya (ML Engineer)
+5. Nia Khairani (ML Ops)
 
 
