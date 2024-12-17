@@ -12,7 +12,14 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 
-
+- Generate Examples for Image Datasets
+- Generate Human Face Photos
+- Generate Realistic Photos
+- Generate Cartoon Characters
+- Image-to-Image Translation
+- Text-to-Image Translation
+- Front-End Face Generation
+- Generate New Human Poses
 - Putri Andani Intan Permatasari (Hustler)
 - Generate Human Face Photos
 - Istiarsa Pawestri (Scrum Master Mobile)
