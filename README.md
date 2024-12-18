@@ -47,6 +47,18 @@
 Dataset yang digunakan dengan format json yang berisikan pertanyaan dan jawaban umum seputar budidaya sarang burung walet 
 ![image1](https://drive.google.com/uc?id=14anQRY2GLHd-EMcDUbo9U0qmNds4E7xa)
 
+## Model 
+Model yang kami gunakan untuk chatbot adalah model T5
+![image4](https://drive.google.com/uc?id=185wXIdPfd3FDTaK9zO6PIvDRFISvjp3_)
+![image3](https://drive.google.com/uc?id=1U_JsWc4csoWTDyqLtsGrQo0bMKEqQp7G)
+
+## Testing Model
+![images2](https://drive.google.com/uc?id=1WpHPNpnnSpmvPS86taIPcd2UvscLMnp0)
+
+
+
+
+
 
 
 
