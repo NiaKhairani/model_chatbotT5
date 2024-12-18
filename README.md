@@ -1,6 +1,6 @@
 <h1 align="center"> SWIFTECH </h1>
 <h2 align="center"> PROJECT MASSIVE </h2>
-<p align="center"> Fitur AI</p>
+<p align="center"> Dataset & Model </p>
 
 <div align="center">
 
@@ -22,7 +22,6 @@
 5. Revo Dwi Arya (Meachine Learning  Engineer)
 6. Nia Khairani (Meachine Learning  Ops)
    
-<br>
 
 ## Team Web 🧐
 1. Aura Maulida Izzati Kostelani (Scrum Master Web)
@@ -34,7 +33,6 @@
 7. Muhammad Fadli Fauzi Sileuw (Hacker)
 8. Slamet Daroini (Hacker)
    
-<br>
 
 ## Team Mobile 🍰
 1. Putri Andani Intan (Hustler)
