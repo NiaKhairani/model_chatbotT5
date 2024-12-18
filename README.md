@@ -43,6 +43,8 @@
 6. Muh. Yassar Nurfajri Darmawan (Hacker)
 7. Dian Reski Amelia (Hacker)
    
-
+## Dataset
+Dataset yang digunakan dengan format json yang berisikan pertanyaan dan jawaban umum seputar budidaya sarang burung walet 
+![alt text](readme-img/img1.png)
 
 
