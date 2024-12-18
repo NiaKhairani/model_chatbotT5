@@ -45,6 +45,6 @@
    
 ## Dataset
 Dataset yang digunakan dengan format json yang berisikan pertanyaan dan jawaban umum seputar budidaya sarang burung walet 
-![alt text](readme-img/img1.png)
+<img src="img1" alt="image1" width="300" />
 
 
