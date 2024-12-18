@@ -45,7 +45,7 @@
    
 ## Dataset
 Dataset yang digunakan dengan format json yang berisikan pertanyaan dan jawaban umum seputar budidaya sarang burung walet 
-![image1]([https://example.com/foto.png](https://drive.google.com/file/d/14anQRY2GLHd-EMcDUbo9U0qmNds4E7xa/view?usp=drive_link))
+![image1](https://example.com/foto.png](https://drive.google.com/file/d/14anQRY2GLHd-EMcDUbo9U0qmNds4E7xa/view?usp=drive_link)
 
 
 
